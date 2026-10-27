@@ -11,7 +11,7 @@
 **I connect AI agents, APIs, and business tools to automate repetitive workflows.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sana-ullah-4447a0427)
-[![Portfolio](https://img.shields.io/badge/Portfolio-NEXORA_AI-1B4FD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sananexoraai.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-NEXORA_AI-1B4FD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexoraaihq.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sana@nexoraaihq.com)
 
 </div>
@@ -82,6 +82,12 @@ A project focused on AI-assisted real-estate customer support, property inquirie
 
 **Focus:** AI agents · Real-estate workflows · Customer communication
 
+### 🖥️ Real Estate Lead Dashboard Demo
+
+An interactive front-end prototype with fictional data, search, property/status filters, lead creation, and pipeline status updates. It has no backend and is not a production CRM.
+
+[Open dashboard demo source](https://github.com/AIwithsanaullah/ai-web-and-app-development/blob/main/demos/real-estate-dashboard.html) · [Web & App Development repository](https://github.com/AIwithsanaullah/ai-web-and-app-development)
+
 ### 💬 WhatsApp AI Business Agent
 
 A project concept focused on AI-assisted business messaging and customer-support workflows.
@@ -96,17 +102,17 @@ A project concept focused on AI-assisted business messaging and customer-support
 
 *Please refer to the certificate for the official credential title and issue details.*
 
-## 📈 What I'm Improving
+## 🧪 Project Status
 
-- Publishing sanitized workflow examples and setup instructions
-- Documenting sample inputs, outputs, and edge cases
-- Building more testable AI automation projects
-- Improving reliability through validation and error handling
+- The WhatsApp property extraction repository includes a documented reference blueprint, extraction prompt, fictional examples, and privacy guidance.
+- The real-estate receptionist and voice-agent repositories include reference designs, prompts, setup checklists, and acceptance tests.
+- The web repository includes an interactive front-end dashboard demo using fictional data.
+- Production deployments and integrations are only claimed when they have been configured and tested.
 
 ## 🤝 Connect
 
 - **LinkedIn:** [Sana Ullah](https://linkedin.com/in/sana-ullah-4447a0427)
-- **Portfolio:** [NEXORA AI Solutions](https://sananexoraai.lovable.app/)
+- **Portfolio:** [NEXORA AI Solutions](https://nexoraaihq.com/)
 - **Email:** [sana@nexoraaihq.com](mailto:sana@nexoraaihq.com)
 - **GitHub:** [@AIwithsanaullah](https://github.com/AIwithsanaullah)
 
