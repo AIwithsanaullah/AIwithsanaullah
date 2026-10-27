@@ -10,7 +10,7 @@
 
 **I connect AI agents, APIs, and business tools to automate repetitive workflows.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sana-ullah-4447a0427)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-ullah-4447a0427/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-NEXORA_AI-1B4FD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexoraaihq.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sana@nexoraaihq.com)
 
@@ -18,101 +18,78 @@
 
 ---
 
-## 👋 About Me
+## About
 
-I'm Sana Ullah, an AI Automation Engineer and founder of **NEXORA AI Solutions**. I build practical automations using **n8n, AI integrations, APIs, and webhooks**, with a focus on real-estate operations, lead data, and customer communication.
+I'm Sana Ullah, an AI Automation & Agentic AI Engineer and founder of **NEXORA AI Solutions**. My work focuses on n8n workflows, API and webhook integrations, AI-assisted data extraction, and customer communication use cases.
 
-I enjoy turning unstructured information and repetitive business tasks into organized, repeatable workflows.
+I aim to turn repetitive business tasks into structured workflows with validation, clear failure handling, and useful documentation.
 
-- 🔁 Build and connect workflows in n8n
-- 🏡 Extract property information from WhatsApp messages into structured Google Sheets records
-- 🧹 Apply data validation, conditional logic, and deduplication
-- 🤖 Integrate AI models into business workflows for classification, extraction, and customer support use cases
-- 📅 Connect business tools such as Google Sheets, Google Calendar, and Gmail
-- 📞 Explore voice AI and messaging integrations for customer communication
+- Build and connect workflows using n8n, webhooks, REST APIs, and JSON.
+- Extract property details from authorized WhatsApp messages into structured records.
+- Apply conditional logic, data validation, and duplicate checks.
+- Connect AI model workflows with Google Sheets and other business tools.
+- Design voice-agent, receptionist, and web application prototypes.
 
-**I'm interested in remote opportunities and freelance projects** involving AI automation, workflow integration, and agentic systems.
+**Open to:** remote roles and freelance projects in AI automation, workflow integration, and practical agentic systems.
 
-## 🛠️ Skills & Tools
+## Skills and tools
 
-**Automation & integration**
-- n8n, workflow design, conditional logic, webhooks, REST API integrations
-- JSON handling, data mapping, validation, and error handling
+- **Automation:** n8n, workflow design, conditional logic, data mapping, error handling
+- **Integration:** REST APIs, webhooks, JSON, Google Sheets, Google Calendar, Gmail
+- **AI workflows:** OpenAI integrations, prompt design, classification, structured extraction
+- **Messaging and voice:** WhatsApp Business integrations, Twilio, Retell AI, ElevenLabs
+- **Data and web:** Supabase, HTML, CSS, JavaScript-based front-end prototypes
 
-**AI workflows**
-- OpenAI integrations, AI agents, prompt design
-- Structured data extraction, text classification, and AI-assisted customer support workflows
+Tools listed here reflect my stated hands-on experience and project work; each repository describes what is implemented versus proposed.
 
-**Messaging & voice**
-- WhatsApp Business integrations
-- Twilio, Retell AI, ElevenLabs
+## Featured work
 
-**Business tools & data**
-- Google Sheets, Google Calendar, Gmail
-- Supabase
+### Real-estate WhatsApp property extraction
 
-> I list tools and skills that are relevant to my hands-on workflow work. I'm continuing to expand my portfolio with clearer implementation examples and documentation.
+A real workflow project for turning authorized property messages into structured Google Sheets records. The public repository is a **sanitized reference package**, not the client's private workflow export.
 
-## 🚀 Featured Work
+- Extracts source-supported details such as society, phase, block, plot number, size, demand, property type, and contact information.
+- Uses validation and duplicate-handling rules to improve record consistency.
+- Processes incoming information only; it does not send messages or replies to WhatsApp groups.
 
-### 🏡 Real Estate WhatsApp Property Data Extraction
+[View the public reference repository](https://github.com/AIwithsanaullah/whatsapp-ai-business-agent)
 
-A workflow built around collecting property details from existing WhatsApp messages and organizing them into structured Google Sheets rows.
+### Real-estate lead dashboard
 
-- Extracts available details such as society, phase, block, plot number, size, demand, property type, and contact information.
-- Handles variations in unstructured property messages.
-- Uses validation and deduplication rules to help keep records consistent.
-- Designed for data extraction and organization; it does **not** send WhatsApp messages or replies.
+An interactive browser-based front-end demo with fictional records, search, filters, lead creation, status updates, and dynamic summary counts. It has no backend, login, or persistent database.
 
-**Focus:** n8n · AI-assisted extraction · JSON · Google Sheets · Data validation
+[Open the dashboard source](https://github.com/AIwithsanaullah/ai-web-and-app-development/blob/main/demos/real-estate-dashboard.html) · [Web and app development repository](https://github.com/AIwithsanaullah/ai-web-and-app-development)
 
-### 📞 AI Voice Calling Agent
+### AI real-estate receptionist
 
-A project focused on voice-agent workflows and integrations for customer conversations, lead qualification, and appointment-related use cases.
-
-[View repository](https://github.com/AIwithsanaullah/ai-voice-calling-agent)
-
-**Focus:** Voice AI · n8n · API/webhook integrations
-
-### 🏠 AI Real Estate Receptionist
-
-A project focused on AI-assisted real-estate customer support, property inquiries, lead qualification, and appointment workflows.
+A reference design for property enquiries, lead qualification, grounded answers, appointment checks, and human handoff. The repository contains prompts, setup guidance, and test cases; a live production integration is not claimed.
 
 [View repository](https://github.com/AIwithsanaullah/ai-real-estate-receptionist)
 
-**Focus:** AI agents · Real-estate workflows · Customer communication
+### AI voice calling agent
 
-### 🖥️ Real Estate Lead Dashboard Demo
+A reference design for voice-based lead qualification and appointment assistance, including AI disclosure, consent, opt-out, and handoff rules. The repository does not claim a verified production calling deployment.
 
-An interactive front-end prototype with fictional data, search, property/status filters, lead creation, and pipeline status updates. It has no backend and is not a production CRM.
+[View repository](https://github.com/AIwithsanaullah/ai-voice-calling-agent)
 
-[Open dashboard demo source](https://github.com/AIwithsanaullah/ai-web-and-app-development/blob/main/demos/real-estate-dashboard.html) · [Web & App Development repository](https://github.com/AIwithsanaullah/ai-web-and-app-development)
+### NEXORA AI Solutions
 
-### 💬 WhatsApp AI Business Agent
+My agency focus includes AI automation, voice agents, WhatsApp AI agents, chatbots, and AI-enabled web experiences.
 
-A project concept focused on AI-assisted business messaging and customer-support workflows.
+[Visit website](https://nexoraaihq.com/) · [View portfolio repository](https://github.com/AIwithsanaullah/Nexora-ai-soltion)
 
-[View repository](https://github.com/AIwithsanaullah/whatsapp-ai-business-agent)
+## Certification
 
----
+**Agentic AI & Automation** — Tech 7 Academy. Refer to the issued certificate for the official credential title and details.
 
-## 🎓 Certification
+## Project transparency
 
-**Agentic AI & Automation** — Tech 7 Academy
+Public examples use fictional or sanitized data. Reference designs are labelled as such, and production deployment claims are only made when the relevant integration has been configured and tested. Client messages, phone numbers, credentials, and private workflow exports are not published.
 
-*Please refer to the certificate for the official credential title and issue details.*
+## Connect
 
-## 🧪 Project Status
-
-- The WhatsApp property extraction repository includes a documented reference blueprint, extraction prompt, fictional examples, and privacy guidance.
-- The real-estate receptionist and voice-agent repositories include reference designs, prompts, setup checklists, and acceptance tests.
-- The web repository includes an interactive front-end dashboard demo using fictional data.
-- Production deployments and integrations are only claimed when they have been configured and tested.
-
-## 🤝 Connect
-
-- **LinkedIn:** [Sana Ullah](https://linkedin.com/in/sana-ullah-4447a0427)
-- **Portfolio:** [NEXORA AI Solutions](https://nexoraaihq.com/)
+- **LinkedIn:** [Sana Ullah](https://www.linkedin.com/in/sana-ullah-4447a0427/)
+- **Website:** [NEXORA AI Solutions](https://nexoraaihq.com/)
 - **Email:** [sana@nexoraaihq.com](mailto:sana@nexoraaihq.com)
 - **GitHub:** [@AIwithsanaullah](https://github.com/AIwithsanaullah)
 
@@ -120,6 +97,6 @@ A project concept focused on AI-assisted business messaging and customer-support
 
 <div align="center">
 
-*Practical AI automation starts with understanding the process, connecting the right tools, and making the workflow useful and maintainable.*
+*Understand the process. Connect the right tools. Validate the result. Make the workflow maintainable.*
 
 </div>
