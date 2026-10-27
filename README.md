@@ -52,7 +52,7 @@ A real workflow project for turning authorized property messages into structured
 - Uses validation and duplicate-handling rules to improve record consistency.
 - Processes incoming information only; it does not send messages or replies to WhatsApp groups.
 
-[View the public reference repository](https://github.com/AIwithsanaullah/whatsapp-ai-business-agent)
+[View the public reference repository](https://github.com/AIwithsanaullah/whatsapp-ai-business-agent) · [Read the sanitized case study](https://github.com/AIwithsanaullah/ai-web-and-app-development/blob/main/docs/CASE_STUDY_WHATSAPP_PROPERTY_EXTRACTION.md)
 
 ### Real-estate lead dashboard
 
